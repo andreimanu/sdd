@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14246831526460" configfile="/Notaneitorv2_0_p_sesion6/WebContent/WEB-INF/faces-config.xml">
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14246831526460" configfile="/Notaneitorv3_0/WebContent/WEB-INF/faces-config.xml">
   <nodes xsi:type="pageflow:PFPage" name="*" x="122" y="178" id="pf14568361469810" referenceLink="//@navigationRule.0/@fromViewId|" outlinks="pf14568361469811 pf14569226252671 pf14569226252672" path="*"/>
   <nodes xsi:type="pageflow:PFPage" name="error.xhtml" x="338" y="178" id="pf14568361469812" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" inlinks="pf14568361469811" path="/error.xhtml"/>
   <nodes xsi:type="pageflow:PFPage" name="listado.xhtml" x="554" y="946" id="pf14568361469826" referenceLink="//@navigationRule.3/@navigationCase.0/@toViewId|" outlinks="pf14568361469827 pf14568361469828" inlinks="pf14568361469827 pf14568361469829 pf145683614698210 pf14569226252671" path="/listado.xhtml"/>
